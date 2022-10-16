@@ -1,0 +1,15 @@
+{
+    "id": "hot_tourist_destinations",
+    "name": "热门景点",
+    "version": ">=1.16.1",
+    "src_category": "mc_juice#Obtain_Advancement",
+    "conditions": [
+		[
+			{
+				"type": "achieve_advancement",
+				"name": "hot_tourist_destinations",
+				"advancement": "minecraft:nether/explore_nether"
+			}
+		]
+	]
+}
