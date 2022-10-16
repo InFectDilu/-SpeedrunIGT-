@@ -1,0 +1,17 @@
+{
+    "id": "break_beenest",
+    "name": "破坏蜂巢",
+    "version": ">=1.16.1",
+    "src_category": "mc_juice#Break_Beenest",
+    "conditions": [
+		[
+			{
+                "type": "player_stat",
+                "name": "break_beenest",
+                "category": "minecraft:mined",
+                "stat": "minecraft:bee_nest",
+                "goal": 1
+            }
+		]
+	]
+}

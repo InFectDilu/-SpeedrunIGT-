@@ -1,0 +1,15 @@
+{
+    "id": "zombie_doctor",
+    "name": "僵尸科医生",
+    "version": ">=1.12",
+    "src_category": "mc_juice#Obtain_Advancement",
+    "conditions": [
+		[
+			{
+				"type": "achieve_advancement",
+				"name": "zombie_doctor",
+				"advancement": "minecraft:story/cure_zombie_villager"
+			}
+		]
+	]
+}

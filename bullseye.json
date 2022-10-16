@@ -1,0 +1,15 @@
+{
+    "id": "bullseye",
+    "name": "正中靶心",
+    "version": ">=1.16.1",
+    "src_category": "mc_juice#Obtain_Advancement",
+    "conditions": [
+		[
+			{
+				"type": "achieve_advancement",
+				"name": "bullseye",
+				"advancement": "minecraft:adventure/bullseye"
+			}
+		]
+	]
+}

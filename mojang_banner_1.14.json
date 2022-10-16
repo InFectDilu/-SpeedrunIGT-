@@ -1,0 +1,48 @@
+{
+    "id": "mojang_banner",
+    "name": "Mojang旗帜",
+    "version": ">=1.14",
+    "src_category": "mc_juice#Mojang_Banner",
+    "conditions": [
+        [
+            {
+                "type": "obtain_item",
+                "name": "red_banner",
+                "item_id": "minecraft:red_banner",
+                "item_tag": "{BlockEntityTag:{Patterns:[{Pattern:\"moj\",Color:0}]}}"
+            }
+        ],
+        [
+            {
+                "type": "obtain_item",
+                "name": "white_banner_horizontal_1",
+                "item_id": "minecraft:white_banner",
+                "item_tag": "{BlockEntityTag:{Patterns:[{Pattern:\"hh\",Color:14},{Pattern:\"hhb\",Color:14},{Pattern:\"moj\",Color:0}]}}"
+            }
+        ],
+        [
+            {
+                "type": "obtain_item",
+                "name": "white_banner_horizontal_2",
+                "item_id": "minecraft:white_banner",
+                "item_tag": "{BlockEntityTag:{Patterns:[{Pattern:\"hhb\",Color:14},{Pattern:\"hh\",Color:14},{Pattern:\"moj\",Color:0}]}}"
+            }
+        ],
+        [
+            {
+                "type": "obtain_item",
+                "name": "white_banner_vertical_1",
+                "item_id": "minecraft:white_banner",
+                "item_tag": "{BlockEntityTag:{Patterns:[{Pattern:\"vh\",Color:14},{Pattern:\"vhr\",Color:14},{Pattern:\"moj\",Color:0}]}}"
+            }
+        ],
+        [
+            {
+                "type": "obtain_item",
+                "name": "white_banner_vertical_2",
+                "item_id": "minecraft:white_banner",
+                "item_tag": "{BlockEntityTag:{Patterns:[{Pattern:\"vhr\",Color:14},{Pattern:\"vh\",Color:14},{Pattern:\"moj\",Color:0}]}}"
+            }
+        ]
+    ]
+}
