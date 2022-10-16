@@ -1,4 +1,4 @@
-# -SpeedrunIGT-
+# Chinese-SpeedrunIGT-Extensions
 一些IGT Timer中不自带的计时器拓展。
 
 把想加入计时器的类别json文件放入`C:\Users\LENOVO\speedrunigt\categories`，其中`LENOVO`取决于你的用户名。
