@@ -1,0 +1,15 @@
+{
+    "id": "postmortal",
+    "name": "超越生死",
+    "version": ">=1.12",
+    "src_category": "mc_juice#Obtain_Advancement",
+    "conditions": [
+		[
+			{
+				"type": "achieve_advancement",
+				"name": "postmortal",
+				"advancement": "minecraft:adventure/totem_of_undying"
+			}
+		]
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "obtain_cake",
+    "name": "获得蛋糕",
+    "version": ">=1.8",
+    "src_category": "mcce#Obtain_Item",
+    "conditions": [
+        [
+            {
+                "type": "obtain_item",
+                "name": "cake",
+                "item_id": "minecraft:cake"
+            }
+        ]
+    ]
+}

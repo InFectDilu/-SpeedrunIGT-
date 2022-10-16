@@ -1,0 +1,15 @@
+{
+    "id": "obtain_diamond",
+    "name": "获得钻石",
+    "version": ">=1.8-",
+    "src_category": "mcce#Obtain_Item",
+    "conditions": [
+        [
+            {
+                "type": "obtain_item",
+                "name": "diamond",
+                "item_id": "minecraft:diamond"
+            }
+        ]
+    ]
+}

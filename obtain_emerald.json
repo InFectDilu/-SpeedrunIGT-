@@ -1,0 +1,15 @@
+{
+    "id": "obtain_emerald",
+    "name": "获得绿宝石",
+    "version": ">=1.8-",
+    "src_category": "mcce#Obtain_Item",
+    "conditions": [
+        [
+            {
+                "type": "obtain_item",
+                "name": "emerald",
+                "item_id": "minecraft:emerald"
+            }
+        ]
+    ]
+}

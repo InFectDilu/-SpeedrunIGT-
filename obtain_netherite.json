@@ -1,0 +1,15 @@
+{
+    "id": "obtain_netherite",
+    "name": "获得下界合金锭",
+    "version": ">=1.16.1",
+    "src_category": "mcce#Obtain_Item",
+    "conditions": [
+		[
+			{
+				"type": "obtain_item",
+				"name": "netherite_ingot",
+				"item_id": "minecraft:netherite_ingot"
+			}
+		]
+	]
+}

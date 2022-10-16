@@ -1,0 +1,90 @@
+{
+  "id": "all_wool",
+  "name": "全羊毛",
+  "version": ">=1.13",
+  "src_category": "mcce#All_Wool",
+  "conditions": [
+    [
+      {
+        "type": "obtain_item",
+        "name": "red_wool",
+        "item_id": "minecraft:red_wool"
+      },
+      {
+        "type": "obtain_item",
+        "name": "orange_wool",
+        "item_id": "minecraft:orange_wool"
+      },
+      {
+        "type": "obtain_item",
+        "name": "white_wool",
+        "item_id": "minecraft:white_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "magenta_wool",
+        "item_id": "minecraft:magenta_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "light_blue_wool",
+        "item_id": "minecraft:light_blue_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "yellow_wool",
+        "item_id": "minecraft:yellow_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "lime_wool",
+        "item_id": "minecraft:lime_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "pink_wool",
+        "item_id": "minecraft:pink_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "gray_wool",
+        "item_id": "minecraft:gray_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "light_gray_wool",
+        "item_id": "minecraft:light_gray_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "cyan_wool",
+        "item_id": "minecraft:cyan_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "purple_wool",
+        "item_id": "minecraft:purple_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "blue_wool",
+        "item_id": "minecraft:blue_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "brown_wool",
+        "item_id": "minecraft:brown_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "green_wool",
+        "item_id": "minecraft:green_wool"
+      },
+	  {
+        "type": "obtain_item",
+        "name": "black_wool",
+        "item_id": "minecraft:black_wool"
+      }
+    ]
+  ]
+}

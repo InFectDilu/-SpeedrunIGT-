@@ -1,0 +1,71 @@
+{
+    "id": "aci",
+    "name": "获得所有创造模式标签栏物品",
+    "version": "*",
+    "src_category": "mc_juice#All_Creative_Icons",
+    "conditions": [
+		[
+            {
+                "type": "obtain_item",
+                "name": "Bricks",
+                "item_id": "minecraft:bricks"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Peony",
+                "item_id": "minecraft:peony"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Redstone",
+                "item_id": "minecraft:redstone"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Powered Rail",
+                "item_id": "minecraft:powered_rail"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Bookshelf",
+                "item_id": "minecraft:bookshelf"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Compass",
+                "item_id": "minecraft:compass"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Lava Bucket",
+                "item_id": "minecraft:lava_bucket"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Apple",
+                "item_id": "minecraft:apple"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Iron Axe",
+                "item_id": "minecraft:iron_axe"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Golden Sword",
+                "item_id": "minecraft:golden_sword"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Water Bottle",
+                "item_id": "minecraft:potion",
+                "item_tag": "{Potion:\"minecraft:water\"}"
+            },
+            {
+                "type": "obtain_item",
+                "name": "Chest",
+                "item_id": "minecraft:chest"
+            }
+		]
+	]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "all_buckets",
+    "name": "获得所有桶",
+    "version": ">=1.8- <=1.12-",
+    "src_category": "mc_juice#All_Buckets",
+    "conditions": [
+        [
+            {
+                "type": "obtain_item",
+                "name": "bucket",
+                "item_id": "minecraft:bucket"
+            },
+            {
+                "type": "obtain_item",
+                "name": "water_bucket",
+                "item_id": "minecraft:water_bucket"
+            },
+            {
+                "type": "obtain_item",
+                "name": "lava_bucket",
+                "item_id": "minecraft:lava_bucket"
+            },
+            {
+                "type": "obtain_item",
+                "name": "milk_bucket",
+                "item_id": "minecraft:milk_bucket"
+            }
+        ]
+    ]
+}
